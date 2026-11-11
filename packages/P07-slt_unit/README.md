@@ -74,4 +74,3 @@ as keyboard input and compares the terminal output with the matching `.out` file
 
 Fill in every section. Your instruction to trace (E1) is **BLT**;
 your review partners (E2) are P06 (Right barrel shifter) and P08 (ALU result selector).
-
